@@ -1,0 +1,22 @@
+{
+    "name": "Visitors",    
+    "type": "library",
+    "description": "Visitors count",
+    "keywords": ["visitors", "count"],
+    "homepage": "",
+    "license": "Ludde",
+    "authors": [
+        {
+            "name": "Ludvig Skoglund",
+            "email": "ludvig.skoglund@gmail.com",
+            "homepage": "http://ludvigskoglund.se",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Visitors\\": "src/" }
+    }
+}
