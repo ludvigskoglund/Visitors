@@ -1,5 +1,5 @@
 {
-    "name": "Visitors",    
+    "name": "visitors/visitors",    
     "type": "library",
     "description": "Visitors count",
     "keywords": ["visitors", "count"],
